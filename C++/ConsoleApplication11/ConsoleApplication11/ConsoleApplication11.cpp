@@ -164,7 +164,7 @@ int main()
 	//biranje rezolucije zbog lakseg prikaza
 	int n, m;
 	cout << "(1) Maksimalna rezolucija\t(631x546)\n" <<
-		    "(2) Srednja rezolucija\t(364x315)\n" <<
+		    "(2) Srednja rezolucija\t\t(364x315)\n" <<
 		    "(3) Minimalna rezolucija\t(121x105)\n" <<
 		    "+-------------------------------------------+\n" <<
 		    "Unesite rezoluciju : ";
