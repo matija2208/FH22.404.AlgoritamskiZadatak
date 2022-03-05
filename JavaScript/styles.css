@@ -1,0 +1,50 @@
+#canvasDiv{
+    display: flex;
+    align-items: center;
+    width: 90vh;
+    height: 90vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#canvas{
+    display: flex;
+    width: 100%;
+}
+
+#inputDiv{
+    display: flex;
+    align-items: center;
+    width: 90vh;
+    height: 90vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#forma{
+    width: 200px;
+    height: 50px;
+    align-items: center;
+}
+
+.button {
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+
+    display: table-cell; vertical-align: middle; 
+
+    margin-left: 10%;
+
+    height: 90%;
+    width: 25%;
+  }
+
+  #numInput{
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    height: 100%;
+    width:50%;
+  }
